@@ -14,9 +14,6 @@
     <label for="email">Email:</label><br>
     <input type="email" name="email" id="email" required><br><br>
 
-    <label for="email">Email:</label><br>
-    <input type="email" name="email" id="email" required><br><br>
-
     <label for="mensagem">Mensagem:</label><br>
     <input type="mensagem" name="mensagem" rows="5" required></textarea><br><br>
 
